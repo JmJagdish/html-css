@@ -1,4 +1,14 @@
-
-p{
-    color: red;
+*{
+    margin: 0%;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#main{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(244, 137, 6);
 }
