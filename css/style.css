@@ -12,3 +12,21 @@ body{
     width: 400px;
     background-color: rgb(244, 137, 6);
 }
+
+p{
+    color: rgb(2, 37, 37);
+    font-weight: 500;
+    font-size: 100px;
+}
+div p{
+    color: blueviolet;
+}
+#first{
+    color: rgb(6, 184, 9);
+}
+.first{
+    color: rgb(255, 132, 0);
+}
+.second{
+    color: rgb(255, 0, 0);
+}
